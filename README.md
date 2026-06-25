@@ -1,7 +1,17 @@
+<div align="center" style="font-family: Georgia, serif;">
+
 # Hi there, I'm Ramji Pal
+
 I enjoy turning ideas into scalable applications while continuously improving my problem solving and software engineering skills.
 
+</div>
+
+---
+
+<div style="font-family: Georgia, serif;">
+
 ## Currently Learning
+
 * System Design
 * Distributed Systems
 * AI Engineering
@@ -9,6 +19,7 @@ I enjoy turning ideas into scalable applications while continuously improving my
 * Open Source
 
 ## Current Focus
+
 * Building AI powered applications
 * Developing scalable backend systems
 * Creating impactful full stack projects
@@ -16,11 +27,21 @@ I enjoy turning ideas into scalable applications while continuously improving my
 * Preparing for Software Engineering opportunities
 
 ## Connect With Me
-Email: **[ramjipal8126@gmail.com](mailto:ramjipal8126@gmail.com)**
-LinkedIn: https://www.linkedin.com/in/ramji-pal-8499a224a/
-YouTube: https://www.youtube.com/@CodeWithRam01
-Reddit: (https://www.reddit.com/user/SaltyCap9598/)
+
+**Email**
+[ramjipal8126@gmail.com](mailto:ramjipal8126@gmail.com)
+
+**LinkedIn**
+https://www.linkedin.com/in/ramji-pal-8499a224a/
+
+**YouTube**
+https://www.youtube.com/@CodeWithRam01
+
+**Reddit**
+https://www.reddit.com/user/SaltyCap9598/
 
 ---
 
-> *"Always learning. Always building. Always improving."*
+> *Always learning. Always building. Always improving.*
+
+</div>
